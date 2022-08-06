@@ -1,18 +1,12 @@
-# bmi_calculator
+# Bmi_Calculator
 
-A BMI Calculator in Flutter is made for practicing my UI skills, and be able to add functionality behind the app. 
+I make BMI Calculator in Flutter for practicing my UI skills, and be able to add functionality behind the app. 
 
 UI Credit @Huong D. Tran
 
-## Getting Started
+## Screenshots of app:- 
 
-This project is a starting point for a Flutter application.
+![Untitled design (1)](https://user-images.githubusercontent.com/99192107/183237248-88d997fb-0c82-4f82-8365-3d8387c200de.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Feel free to share your suggestions on my linkedin:- https://tinyurl.com/3byc2ujt
