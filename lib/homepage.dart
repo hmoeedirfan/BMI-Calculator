@@ -326,7 +326,7 @@ class _HomePageState extends State<HomePage> {
               child: SizedBox(
                 child: ElevatedButton(
                   style: ElevatedButton.styleFrom(
-                    primary: const Color(0xff4F7DF9),
+                    backgroundColor: const Color(0xff4F7DF9),
                     fixedSize: const Size(350, 60),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(10),
